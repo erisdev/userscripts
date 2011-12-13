@@ -5,8 +5,10 @@ JS_FILES     = COFFEE_FILES.pathmap '%{^src,bin}X.js'
 
 task :default => :compile
 
+desc "compile UserScripts"
 task :compile => JS_FILES
 
+desc "remove compiled files"
 task :clean do
   js_files = JS_FILES.existing
   rm *js_files unless js_files.empty?
