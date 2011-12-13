@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Reddit: Block Users from Your Inbox
+// @name        The Reddit User Blocker
 // @description Adds a "block user" link to all comment replies in your inbox.
 // @version     1.0
 // @author      Eris
