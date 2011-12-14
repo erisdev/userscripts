@@ -1,6 +1,8 @@
 # Riz's Fantabulous UserScript Collection
 
-Run `rake` to compile the CoffeeScript files to usable JavaScript UserScripts. 
+Run `rake` to compile the CoffeeScript files to usable JavaScript UserScripts.
+
+For Mac users, `rake install:$script` will attempt to install `$script` in your default web browser.
 
 ## The Reddit User Blocker
 File: **reddit-block-user.js**
