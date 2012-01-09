@@ -10,3 +10,8 @@ File: **reddit-block-user.js**
 Normally, Reddit only allows you to block a user who has sent you a direct message. Since harassment can happen in comments too, this script corrects what I see as an glaring oversight by adding a "block user" link to all comment replies in your inbox. For speed and simplicity's sake, has no effect on the rest of Reddit.
 
 The "block user" code is taken directly from Reddit itself, so it's guaranteed to be fresh until it's not.
+
+## DeviantART Link Disobnoxiator
+File: **deviantart-link-disobnoxiator.user.js**
+
+Kills that stupid DeviantART idiot guard page on outgoing links because we aren't all helpless mouth breathers.
